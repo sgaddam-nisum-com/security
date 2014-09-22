@@ -1,0 +1,10 @@
+{>"layouts/master" /}
+
+{<body}
+     <link rel="stylesheet" href="css/app.css" />
+   
+    <p>{@pre type="content" key="greeting"/}</p>
+
+    <p>
+        Some sample test - Your name is -  {name}
+{/body}
